@@ -1,0 +1,5 @@
+Normal Mode
+Be able to add an item to the cart
+Be able to see the items in the cart
+Be able to remove items from the cart
+Be able to see the subtotal of all items added to cart
